@@ -1,0 +1,1 @@
+This repository demonstrates a subtle error handling scenario in Java. The main example shows an ArithmeticException, caught and then re-thrown as a RuntimeException, improving error reporting for debugging.  The solution file presents alternative techniques for better exception handling.
